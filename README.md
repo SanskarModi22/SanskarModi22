@@ -27,8 +27,6 @@
 - :speech_balloon: &nbsp;I like to talk about **Hinduisim** , **New Technologies** and **Indian History** 
 
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
-
-- 📙 Check out my <a href="https://drive.google.com/file/d/1zoFjh0RdKwdj-jd_Ghhb2LIY3_AiwMXL/view?usp=sharing">resume</a>.
 - 🎉 Fun Fact: 我也会讲中文。</li>
 
 </p>
